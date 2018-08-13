@@ -12,7 +12,7 @@ html {
 
 @media only screen (min-width: 1196px) {
 
-  div #bear {
+  div#bear {
     left: 800px;
   }
 }
