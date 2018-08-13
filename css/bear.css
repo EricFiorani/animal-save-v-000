@@ -10,9 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media only screen (max-width: 1196px) {
+@media only screen (min-width: 1196px) {
 
   #bear {
-    left: 80%;
+    left: 800px;
   }
 }
