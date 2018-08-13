@@ -11,5 +11,8 @@ html {
 /* Write your solution here */
 
 @media only screen (max-width: 1196px) {
-  left: 80%;
+
+  #bear {
+    left: 80%;
+  }
 }
